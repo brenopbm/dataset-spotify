@@ -9,4 +9,4 @@ Integrantes:
 Perguntas:
   1. Qual o time_signature mais repetido no top 50?
   2. Qual a média do tempo das músicas da lista?
-  3. Em qual nota é a maioria das músicas?
+  3. Em qual tom é a maioria das músicas?
